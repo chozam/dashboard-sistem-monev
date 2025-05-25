@@ -26,7 +26,7 @@ dict_desa = {
     "Nganggring": {
         "Instagram": "data instagram/desawisatanganggring_instagram.csv",
         "Google Maps": "gmap-dataset/Desa-Wisata-Nganggring.csv",
-        "Tiktok": "data tiktok\desawisata.nganggring_tiktok.csv",
+        "Tiktok": "data tiktok/desawisata.nganggring_tiktok.csv",
     },
     "Nglanggeran": {
         "Instagram": "data instagram/desawisatanglanggeran_instagram.csv",
@@ -39,8 +39,8 @@ dict_desa = {
     },
     "Goa Cemara": {
         "Instagram": "data instagram/goacemarabeach_instagram.csv",
-        "Google Maps": "gmap-dataset\Desa-Wisata-Patihan-Goa-Cemara.csv",
-        "Tiktok": "data tiktok\safaritrip_goacemara_tiktok.csv",
+        "Google Maps": "gmap-dataset/Desa-Wisata-Patihan-Goa-Cemara.csv",
+        "Tiktok": "data tiktok/safaritrip_goacemara_tiktok.csv",
     },
 }
 
